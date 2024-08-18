@@ -1,0 +1,51 @@
+[
+  {
+    "name": "deportes-list",
+    "path": "/deportes/list",
+    "component": "C:\\\\Users\\\\Fernanda\\\\Desktop\\\\Tarea#1\\\\pages\\\\deportes\\\\list.vue",
+    "chunkName": "pages/deportes/list",
+    "_name": "_bf201892"
+  },
+  {
+    "name": "economia-list",
+    "path": "/economia/list",
+    "component": "C:\\\\Users\\\\Fernanda\\\\Desktop\\\\Tarea#1\\\\pages\\\\economia\\\\list.vue",
+    "chunkName": "pages/economia/list",
+    "_name": "_03c44b3a"
+  },
+  {
+    "name": "sucesos-list",
+    "path": "/sucesos/list",
+    "component": "C:\\\\Users\\\\Fernanda\\\\Desktop\\\\Tarea#1\\\\pages\\\\sucesos\\\\list.vue",
+    "chunkName": "pages/sucesos/list",
+    "_name": "_ccdb7950"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Fernanda\\\\Desktop\\\\Tarea#1\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_29c343f9"
+  },
+  {
+    "name": "deportes-slug",
+    "path": "/deportes/:slug?",
+    "component": "C:\\\\Users\\\\Fernanda\\\\Desktop\\\\Tarea#1\\\\pages\\\\deportes\\\\_slug.vue",
+    "chunkName": "pages/deportes/_slug",
+    "_name": "_f1673c7e"
+  },
+  {
+    "name": "economia-slug",
+    "path": "/economia/:slug?",
+    "component": "C:\\\\Users\\\\Fernanda\\\\Desktop\\\\Tarea#1\\\\pages\\\\economia\\\\_slug.vue",
+    "chunkName": "pages/economia/_slug",
+    "_name": "_e2fa0ac4"
+  },
+  {
+    "name": "sucesos-slug",
+    "path": "/sucesos/:slug?",
+    "component": "C:\\\\Users\\\\Fernanda\\\\Desktop\\\\Tarea#1\\\\pages\\\\sucesos\\\\_slug.vue",
+    "chunkName": "pages/sucesos/_slug",
+    "_name": "_9b17f380"
+  }
+]
