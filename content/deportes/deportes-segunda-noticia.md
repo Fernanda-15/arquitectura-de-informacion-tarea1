@@ -1,9 +1,9 @@
 ---
-title: Noticia 2
-description: Noticia 2
-fecha_publicacion: 2024-08-16
+title: Estudio revela los deportes favoritos de Generación Z, X, Millenials y Baby Boomers en Costa Rica
+description: Las tendencias generacionales en las preferencias deportivas entre las distintas edades en el país fueron estudiadas a través del Estudio Target Group Index (TGI) Costa Rica de Kantar IBOPE Media. El estudio, que encuestó a personas de entre 12 y 75 años, revela patrones interesantes en la participación deportiva, destacando la influencia de la generación en la elección de actividades físicas. "Los resultados de esta investigación son reveladores y nos brindan una valiosa comprensión de cómo las preferencias deportivas varían entre las generaciones. Esta información permite desarrollar estrategias más efectivas para fomentar la participación de los costarricenses en las diferentes disciplinas deportivas y promover la actividad física en todos los grupos de edad, contribuyendo así a la creación de una sociedad más sana y activa”, afirmó Bernal Díaz, Gerente Comercial Regional de Kantar IBOPE Media. Hallazgos clave del estudio -> Voleibol y la generación Alfa (Nacidos entre 2013-presente) Una abrumadora mayoría de los encuestados (64%) que disfrutan del voleibol pertenecen a la Generación Alfa, destacando el fuerte interés de esta generación en este deporte. Fútbol y la generación Z (Nacidos entre 1997-2012 El fútbol cuenta con un sólido respaldo de la Generación Z, con un 14% de todos los participantes pertenecientes a este grupo más joven. Ciclismo y los Millennials (Nacidos entre 1981-1996) Casi un tercio (28%) de todos los ciclistas son Millennials, resaltando su preferencia por esta actividad física sobre dos ruedas. Atletismo y la generación X (Nacidos entre 1965-1980) Un significativo 14% de los entusiastas del atletismo pertenecen a la Generación X, demostrando su compromiso con este deporte. Natación y los Baby Boomers (Nacidos entre 1945-1964) Un considerable 19% de los nadadores son Baby Boomers, indicando su continuo interés en esta actividad acuática. Díaz asegura que el estudio, además de reflejar la diversidad y los gustos cambiantes en el ámbito deportivo a lo largo de las diferentes generaciones en Costa Rica, “la información proporcionada puede ser utilizada por organizaciones deportivas para desarrollar programas y eventos que atraigan a diferentes generaciones, por las marcas para enfocar sus campañas de marketing de manera más efectiva y por las entidades gubernamentales para crear políticas públicas que promuevan la actividad física en todos los grupos de edad”.
+fecha_publicacion: 2024-04-24
 img: /deportes/deportes2.png
-author: Autor 2
+author: Walter Herrera
 ---
 # My first blog post
 
